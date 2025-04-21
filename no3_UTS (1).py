@@ -4,8 +4,6 @@
 # In[2]:
 
 
-pip install streamlit
-
 
 # In[5]:
 
